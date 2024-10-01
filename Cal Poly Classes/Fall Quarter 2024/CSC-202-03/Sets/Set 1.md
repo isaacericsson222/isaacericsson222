@@ -3,13 +3,13 @@
 
 1.
 ```
-from dataclasses import dataclass
-
-@dataclass
-class Person
-	name: str
-	age: int
-	grades: list[float]
+	from dataclasses import dataclass
+	
+	@dataclass
+	class Person:
+		name: str
+		age: int
+		grades: list[float]
 ```
 
 2.
@@ -31,22 +31,29 @@ def contains_value (list1 : findNum) -> int:
 
 4.
 ```
-def test_find_midpoint_element(self):
-	
+def find_midpoint_element(numbList: list[int]):
+	pass
+
+def test_find_midpoint_element_correct_response(self):
+	list1 = [1,2,3,4,5]
+	self.assertEqual(find_midpoint_element(list1), 3, "Should be 3")
 ```
 
 5.
 ```
 from dataclasses import dataclass
+from typing import TypeAlias
 
 @dataclass
-class Library
-	Book: str
-	Patron: str
-	time: TypeAlias = int
-	Loan: time
-	Card: Patron
-	
+class Library:
+Book: str
+Patron: str
+time: TypeAlias = int
+Loan: time
+
+#Methods that operate on these data structures
+#def overdue_books(Book, loan):
+#pass (will tell if a book is overdue)
 ```
 
 6.
@@ -58,7 +65,7 @@ def test_list_sort_raise_type_error(self):
 
 7.
 ```
-def reverse_string(str1) -> str
+def reverse_string(str1) -> str:
 	return str1[::-1]
 ```
 
