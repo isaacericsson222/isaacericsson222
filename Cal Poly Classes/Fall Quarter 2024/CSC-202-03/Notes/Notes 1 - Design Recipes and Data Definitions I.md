@@ -58,7 +58,7 @@ class Slide:
 	next: Slide | None = None
 ```
  - Recursive defined in terms of themselves
- - Fundation of recursion
+ - Foundation of recursion
 
 **Purpose Statement, Contract, Header**
  - Purpose Statement = readability
