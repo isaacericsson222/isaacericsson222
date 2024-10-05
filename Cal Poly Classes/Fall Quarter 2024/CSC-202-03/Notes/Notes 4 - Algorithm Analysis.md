@@ -21,8 +21,8 @@ Time Complexity
  - Average case, and Worst case
  - Think of a linear search function, best case is findNum is start of the list, worst case it's at the end
 
-Big O notation - Upper Bound
- - $f(n)  is  O(g(n))$ if there exists constants c > 0 and $n_0 \ge 0$ such that for all $n \ge n_0$, we have $f(n) \le c * g(n)$
+Big $O$ notation - Upper Bound
+ - $f(n)\  is\  O(g(n))$ if there exists constants c > 0 and $n_0 \ge 0$ such that for all $n \ge n_0$, we have $f(n) \le c * g(n)$
  - Helps predict the worst case scenario
  - For linear search for n input there is n operations therefor it is $O(n)$
  - $O(1)$ is best case scenario, a single operation
