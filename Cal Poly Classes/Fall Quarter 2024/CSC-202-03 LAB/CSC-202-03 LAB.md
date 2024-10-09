@@ -7,7 +7,8 @@ Collection of Lab github repository links
 [Lab 3](https://github.com/Duran-Calpoly/lab-3-isaacericsson222)
 [Lab 4](https://github.com/Duran-Calpoly/lab4-isaacericsson222)
 [Lab 5](https://github.com/Duran-Calpoly/lab-5-isaacericsson222)
-
+[Lab 6](https://github.com/Duran-Calpoly/lab-6-isaacericsson222)
+[Lab 7](https://github.com/Duran-Calpoly/lab-7-isaacericsson222)
 
 
 
