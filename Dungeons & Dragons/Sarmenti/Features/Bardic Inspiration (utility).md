@@ -1,0 +1,1 @@
+3 charges, use on ally within 60 ft they can use the dice to add to a ability check, attack roll, or saving throw. If used for healing or damage, can be used to add dice amount of healing or damage to a target affected by the spell. Regain all after short or long rest.

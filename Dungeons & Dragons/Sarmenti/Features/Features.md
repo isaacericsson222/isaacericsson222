@@ -1,0 +1,6 @@
+[[By Popular Demand]]
+[[Bardic Inspiration (utility)]]
+[[Song of Rest (healing)]]
+[[Jack of All Trades (utility)]]
+[[Rising Tempo (utility)]]
+[[Finale (attack)]]
