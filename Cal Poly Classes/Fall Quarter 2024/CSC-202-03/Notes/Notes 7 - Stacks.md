@@ -1,3 +1,5 @@
+10/02/2024
+
 [Slideshow Link](https://docs.google.com/presentation/d/1qghiO5CMHn2S8iwTrMaiajn-Psle_Qu50LyO75TyREE/edit?usp=sharing)
 
 Freedom Concerns

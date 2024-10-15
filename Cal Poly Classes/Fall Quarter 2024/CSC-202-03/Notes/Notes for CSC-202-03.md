@@ -6,5 +6,5 @@
 [[Notes 5 - Lists I]]
 [[Notes 6 - Lists II]]
 [[Notes 7 - Stacks]]
-
-
+[[Notes 8 - Queues]]
+[[Notes 9 - Stacks and Queues]]

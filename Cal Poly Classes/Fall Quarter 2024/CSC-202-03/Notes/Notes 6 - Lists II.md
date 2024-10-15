@@ -1,3 +1,5 @@
+10/07/2024
+
 [Slideshow Link](https://docs.google.com/presentation/d/1vdNclEJ-XjMVlGo4YkkllN8ihI5TygIe7Sqz65LfjpI/edit?usp=sharing)
 
 Downside of ArrayLists

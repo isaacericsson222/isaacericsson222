@@ -1,3 +1,5 @@
+10/07/2024 - 5pts
+
 List a topic you are passionate about
 Create a Thesis sentence about that topic
 

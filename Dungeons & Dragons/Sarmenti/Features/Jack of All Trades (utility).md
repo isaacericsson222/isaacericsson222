@@ -1,1 +1,0 @@
-Add half of proficiency bonus to any ability check that does not already use it.

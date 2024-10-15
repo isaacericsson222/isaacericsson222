@@ -1,1 +1,0 @@
-Target an enemy within 20 ft they take a charisma saving throw or take 4d6 piercing damage half on success all enemies in range can make one attack against you. All attacks have advantage against you for 1 minute and your speed it reduced to 5. Use once per long rest.
