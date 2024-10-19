@@ -8,3 +8,4 @@
 [[Notes 7 - Stacks]]
 [[Notes 8 - Queues]]
 [[Notes 9 - Stacks and Queues]]
+[[Notes 10 - Trees]]
