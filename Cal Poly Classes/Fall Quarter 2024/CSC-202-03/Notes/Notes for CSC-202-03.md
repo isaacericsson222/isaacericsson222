@@ -9,3 +9,5 @@
 [[Notes 8 - Queues]]
 [[Notes 9 - Stacks and Queues]]
 [[Notes 10 - Trees]]
+[[Notes 11 - Trees II]]
+[[Notes 12 - Sorting]]

@@ -1,5 +1,5 @@
 #class
-Collection of Lab github repository links
+Collection of Lab GitHub repository links
 
 [Lab 0](https://github.com/Duran-Calpoly/lab0-isaacericsson222)
 [Lab 1](https://github.com/Duran-Calpoly/lab1-isaacericsson222)
@@ -13,7 +13,7 @@ Collection of Lab github repository links
 [Lab 9](https://github.com/Duran-Calpoly/lab-9-isaacericsson222)
 [Lab 10](https://github.com/Duran-Calpoly/lab-10-isaacericsson222)
 [Lab 11](https://github.com/Duran-Calpoly/lab-11-isaacericsson222)
-
+[Lab 12](https://canvas.calpoly.edu/courses/137532/assignments/1102872)
 
 
 
