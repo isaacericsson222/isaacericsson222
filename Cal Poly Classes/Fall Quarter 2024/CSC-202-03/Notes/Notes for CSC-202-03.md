@@ -11,3 +11,6 @@
 [[Notes 10 - Trees]]
 [[Notes 11 - Trees II]]
 [[Notes 12 - Sorting]]
+[[Notes 13 - Sorting II]]
+[[Notes 14 - Heaps]]
+[[Notes 15 - Priority Queues]]
