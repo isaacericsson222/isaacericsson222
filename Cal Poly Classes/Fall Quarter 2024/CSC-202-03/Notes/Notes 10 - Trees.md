@@ -27,8 +27,8 @@ Trees
  - Balance: height differences between subtrees
 
 ```
-from __futre__import annotations
-from dataclassees import dataclass
+from __future__ import annotations
+from dataclasses import dataclass
 
 @dataclass(frozen = True)
 class Node:
