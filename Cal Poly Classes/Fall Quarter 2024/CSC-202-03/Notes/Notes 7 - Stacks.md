@@ -59,7 +59,7 @@ Operations - Pop
  
 ```
 def pop(stack: ArrayStack) -> tuple[ArrayStack, int]:
-	if stack.next ==0:
+	if stack.next == 0:
 		raise IndexError("Stack Underflow")
 
 	value = stack.stack[stack.next-1]
