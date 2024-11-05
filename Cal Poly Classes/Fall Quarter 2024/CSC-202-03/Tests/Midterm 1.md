@@ -1,3 +1,5 @@
+#test
+
 ![[Midterm 1 (1).pdf]]
 
 1.
@@ -64,11 +66,13 @@ class Node:
 	next: Node | None = None
 ```
 
-C. Queue = [3,4,6,5] ReadStack = 3 -> 4 WriteStack = 6 -> 5 DQ, DQ, NQ 2, DQ, DQ, NQ 1, NQ 6, DQ, DQ, NQ 7
+C. Queue = [3,4,5,6] ReadStack = 3 -> 4 WriteStack = 6 -> 5 DQ, DQ, NQ 2, DQ, DQ, NQ 1, NQ 6, DQ, DQ, NQ 7
 
-Read stack = [1]
+67
 
-Write stack = [7]
+Read stack = [6] 
+
+Write stack = [7] 
 
 5.
 write a function that recursively traverses the linked list and returns only even ints in a new list
@@ -82,11 +86,19 @@ next: Node | None = None
 def return_evens(list1: Node | None) -> Node | None:
 	if not list1:
 		return None
-
+		
 	if (list1.value % 2 == 0):
 		return Node(list1.value, return_evens(list1.next))
-
+		
 	return return_evens(list1.next)
+
+list1 = Node(2, Node(3, Node(4, Node(5, Node(88)))))
+print(return_evens(list1))
+
+def test_works(list1):
+	return Node(2, Node(4, Node(88, next = None))) == return_evens(list1)
+
+print(test_works(list1))
 ```
 
 6.
@@ -98,14 +110,13 @@ class Node:
 value: int 
 next: Node | None = None
 
-def find_min(list1: Node | None) -> int:
+def find_min(list1: Node | None, min: int | None = list1.value) -> int:
 	if not list1:
 		return min
 
-	if list1.value < list1.next:
+	if list1.value < min:
 		min = list1.value
-	else:
-		return find_min(list1.next)
+		
+	return find_min(list1.next, min)
 
-	return find_min(list1.next)
-```
+print(find_min(list1))

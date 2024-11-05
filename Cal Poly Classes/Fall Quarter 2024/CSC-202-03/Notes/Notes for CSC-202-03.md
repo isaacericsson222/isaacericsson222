@@ -14,3 +14,5 @@
 [[Notes 13 - Sorting II]]
 [[Notes 14 - Heaps]]
 [[Notes 15 - Priority Queues]]
+[[Notes 16 - Hash I]]
+[[Notes 17 - Hash II]]

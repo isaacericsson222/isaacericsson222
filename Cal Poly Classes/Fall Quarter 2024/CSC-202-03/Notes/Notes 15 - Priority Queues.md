@@ -142,10 +142,53 @@ Huffman Tree
 	       /      \
 	     p3         e4
 	              /    \
-	            e2.      t2
+	            e2       t2
 			  /    \    /   \
 			e1     s1  t1   u1  
 
 Huffman Encoding is
 0 111 0 0 100 110 101
+```
+
+```
+kittens
+t = 2
+k = 1
+i = 1
+n = 1
+e = 1
+s = 1
+
+Q = [e1, i1, k1, n1, s1, t2]
+
+DQ = (e1, i1) Node(e2, left = e1, right = i1)
+
+NQ = [k1, n1, s1, e2, t2]
+
+DQ = (k1, n1) Node(k2, left = k1, right = n1)
+
+NQ = [s1, e2, k2, t2]
+
+DQ = (s1, e2) Node(e3, left = s1, right = e2)
+
+NQ = [k2, t2, e3]
+
+DQ = (k2, t2) Node(k4, left = k2, right = t2)
+
+NQ = [e3, k4]
+
+DQ = (e3, k4) Node(e7, left = e3, right = k4)
+
+Huffman encoding
+
+			 e7
+		 /        \
+		e3.        k4
+	   /  \       /   \
+	  s1   e2    k2    t2
+	      /  \  /   \   
+	     e1  i1 k1  n1 
+
+so final encoding is
+100 011 11 11 010 101 00
 ```
