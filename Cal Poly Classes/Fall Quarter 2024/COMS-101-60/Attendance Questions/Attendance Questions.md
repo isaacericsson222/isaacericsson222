@@ -14,3 +14,7 @@ Pretty self explanatory
 [[Attendance Question Monday - Week 6]]
 [[Attendance Question Wednesday - Week 6]]
 [[Attendance Question Monday - Week 7]]
+[[Attendance Question Wednesday - Week 7]]
+[[Attendance Question Wednesday - Week 8]]
+[[Attendance Question Monday - Week 9]]
+[[Attendance Question Wednesday - Week 9]]

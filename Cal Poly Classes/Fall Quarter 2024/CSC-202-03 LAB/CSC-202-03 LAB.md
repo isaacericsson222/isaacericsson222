@@ -19,6 +19,13 @@ Collection of Lab GitHub repository links
 [Lab 15](https://canvas.calpoly.edu/courses/137532/assignments/1102875)
 [Lab 16](https://github.com/Duran-Calpoly/lab-16-isaacericsson222)
 [Lab 17](https://canvas.calpoly.edu/courses/137532/assignments/1102877)
+[Lab 18](https://github.com/Duran-Calpoly/lab-18-isaacericsson222)
+[Lab 19](https://github.com/Duran-Calpoly/lab19-isaacericsson222/blob/main/README.md)
+[Lab 20](https://github.com/Duran-Calpoly/lab20-isaacericsson222)
+[Lab 21](https://canvas.calpoly.edu/courses/137532/assignments/1102882)
+[Lab 22](https://canvas.calpoly.edu/courses/137532/assignments/1102883)
+[Lab 23](https://canvas.calpoly.edu/courses/137532/assignments/1102884)
+
 
 
 
