@@ -10,9 +10,31 @@ I = [45, 12, 3, 2, 6, 0, 50, 9, 2, 1]
 S
 
 3.
-resize at 3 full
+0.75 
+6/8
+Capacity 4  
+Insert 24  
+[24, None, None, None]
+Insert 6  
+[24, None, 6, None]
+Insert 19  
 [24, None, 6, 19]
-[24, None, None, 19, None, None, 6, 7] 
+[24, None, None, 19, None, None, 6,  None]
+Insert 7  
+[24, None, None, 19, None, None, 6, 7]
+Insert 23  
+[24, None, None, 19, None, None, 6,  7 -> 23]
+Insert 8  
+[24 -> 8, None, None, 19, None, None, 6, 7 -> 23]
+Insert 1  
+[24 -> 8, 1, None, 19, None, None, 6, 7 -> 23]
+Insert 26  
+[24 -> 8, 1, 26, 19, None, None, 6, 7 -> 23]
+[None, 1, None, 19, None, None, 6, 7 -> 23, 24 -> 8, None, 26, None, None, None, None, None]
+Insert 25  
+[None, 1, None, 19, None, None, 6, 7 -> 23, 24 -> 8, 25, 26, None, None, None, None, None]
+Insert 2
+[None, 1, 2, 19, None, None, 6, 7 -> 23, 24 -> 8, 25, 26, None, None, None, None, None]
 
 4.
 Done by hand
