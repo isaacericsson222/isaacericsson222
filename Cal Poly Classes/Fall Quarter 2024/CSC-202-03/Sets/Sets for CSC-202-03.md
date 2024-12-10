@@ -7,3 +7,5 @@ Assignments for CSC-202-03
 [[Set 5]]
 [[Set 6]]
 [[Set 7]]
+[[Set 8]]
+[[Set 9]]
