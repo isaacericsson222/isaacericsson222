@@ -22,3 +22,8 @@
 [[Notes 21 - Graphs III]]
 [[Notes 22 - Graphs IV]]
 [[Notes 23 - Graphs V]]
+[[Notes 24 - RB Trees I]]
+[[Notes 25 - RB Trees II]]
+[[Notes 26 - RB Trees III]]
+[[Notes 27 - Midterm Review]]
+

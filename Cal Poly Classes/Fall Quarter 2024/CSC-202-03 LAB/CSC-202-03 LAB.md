@@ -25,6 +25,8 @@ Collection of Lab GitHub repository links
 [Lab 21](https://canvas.calpoly.edu/courses/137532/assignments/1102882)
 [Lab 22](https://canvas.calpoly.edu/courses/137532/assignments/1102883)
 [Lab 23](https://canvas.calpoly.edu/courses/137532/assignments/1102884)
+[Lab 24](https://canvas.calpoly.edu/courses/137532/assignments/1102885)
+
 
 
 
